@@ -1,0 +1,104 @@
+{
+  "common": {
+    "appName": "रेस्क्यू रूट एआई",
+    "welcome": "स्वागत है",
+    "loading": "लोड हो रहा है...",
+    "error": "त्रुटि",
+    "success": "सफलता",
+    "submit": "जमा करें",
+    "cancel": "रद्द करें",
+    "save": "सहेजें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "close": "बंद करें",
+    "refresh": "रीफ्रेश करें"
+  },
+  "navigation": {
+    "home": "होम",
+    "dashboard": "डैशबोर्ड",
+    "emergency": "आपातकाल",
+    "traffic": "ट्रैफिक नियंत्रण",
+    "analytics": "विश्लेषण",
+    "profile": "प्रोफाइल",
+    "logout": "लॉगआउट"
+  },
+  "auth": {
+    "login": "लॉगिन",
+    "register": "रजिस्टर",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "username": "उपयोगकर्ता नाम",
+    "forgotPassword": "पासवर्ड भूल गए?",
+    "loginSuccess": "लॉगिन सफल",
+    "loginError": "लॉगिन विफल। कृपया अपनी जानकारी जांचें।",
+    "logoutSuccess": "सफलतापूर्वक लॉगआउट"
+  },
+  "emergency": {
+    "reportEmergency": "आपातकाल रिपोर्ट करें",
+    "type": "आपातकाल प्रकार",
+    "location": "स्थान",
+    "severity": "गंभीरता",
+    "description": "विवरण",
+    "status": "स्थिति",
+    "types": {
+      "accident": "सड़क दुर्घटना",
+      "fire": "आग",
+      "medical": "चिकित्सा आपातकाल",
+      "police": "पुलिस की आवश्यकता"
+    },
+    "statuses": {
+      "reported": "रिपोर्ट किया गया",
+      "dispatched": "भेजा गया",
+      "ongoing": "जारी",
+      "resolved": "हल हो गया"
+    },
+    "estimatedCasualties": "अनुमानित हताहत",
+    "responseTime": "प्रतिक्रिया समय",
+    "assignedVehicles": "सौंपे गए वाहन",
+    "createSuccess": "आपातकाल सफलतापूर्वक रिपोर्ट किया गया",
+    "createError": "आपातकाल रिपोर्ट करने में विफल"
+  },
+  "vehicle": {
+    "ambulance": "एम्बुलेंस",
+    "fire_truck": "फायर ट्रक",
+    "police_van": "पुलिस वैन",
+    "status": "स्थिति",
+    "location": "वर्तमान स्थान",
+    "eta": "अनुमानित समय",
+    "statuses": {
+      "available": "उपलब्ध",
+      "dispatched": "भेजा गया",
+      "on_scene": "घटनास्थल पर",
+      "returning": "वापस आ रहा है"
+    }
+  },
+  "traffic": {
+    "density": "ट्रैफिक घनत्व",
+    "signals": "ट्रैफिक सिग्नल",
+    "hotspots": "दुर्घटना हॉटस्पॉट",
+    "lightStates": {
+      "red": "लाल",
+      "yellow": "पीला",
+      "green": "हरा"
+    },
+    "priorityActive": "प्राथमिकता सक्रिय",
+    "normalOperation": "सामान्य संचालन"
+  },
+  "dashboard": {
+    "activeEmergencies": "सक्रिय आपातकाल",
+    "avgResponseTime": "औसत प्रतिक्रिया समय",
+    "trafficDensity": "ट्रैफिक घनत्व",
+    "vehiclesDeployed": "तैनात वाहन",
+    "statistics": "आंकड़े",
+    "liveUpdates": "लाइव अपडेट",
+    "alerts": "अलर्ट"
+  },
+  "chat": {
+    "sendMessage": "संदेश भेजें",
+    "typeMessage": "एक संदेश टाइप करें...",
+    "translationOn": "अनुवाद चालू",
+    "translationOff": "अनुवाद बंद",
+    "shareLocation": "स्थान साझा करें",
+    "shareMedia": "मीडिया साझा करें"
+  }
+}

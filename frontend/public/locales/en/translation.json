@@ -1,0 +1,104 @@
+{
+  "common": {
+    "appName": "RescueRoute AI",
+    "welcome": "Welcome",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "refresh": "Refresh"
+  },
+  "navigation": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "emergency": "Emergency",
+    "traffic": "Traffic Control",
+    "analytics": "Analytics",
+    "profile": "Profile",
+    "logout": "Logout"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "username": "Username",
+    "forgotPassword": "Forgot Password?",
+    "loginSuccess": "Login successful",
+    "loginError": "Login failed. Please check your credentials.",
+    "logoutSuccess": "Logged out successfully"
+  },
+  "emergency": {
+    "reportEmergency": "Report Emergency",
+    "type": "Emergency Type",
+    "location": "Location",
+    "severity": "Severity",
+    "description": "Description",
+    "status": "Status",
+    "types": {
+      "accident": "Road Accident",
+      "fire": "Fire",
+      "medical": "Medical Emergency",
+      "police": "Police Required"
+    },
+    "statuses": {
+      "reported": "Reported",
+      "dispatched": "Dispatched",
+      "ongoing": "Ongoing",
+      "resolved": "Resolved"
+    },
+    "estimatedCasualties": "Estimated Casualties",
+    "responseTime": "Response Time",
+    "assignedVehicles": "Assigned Vehicles",
+    "createSuccess": "Emergency reported successfully",
+    "createError": "Failed to report emergency"
+  },
+  "vehicle": {
+    "ambulance": "Ambulance",
+    "fire_truck": "Fire Truck",
+    "police_van": "Police Van",
+    "status": "Status",
+    "location": "Current Location",
+    "eta": "ETA",
+    "statuses": {
+      "available": "Available",
+      "dispatched": "Dispatched",
+      "on_scene": "On Scene",
+      "returning": "Returning"
+    }
+  },
+  "traffic": {
+    "density": "Traffic Density",
+    "signals": "Traffic Signals",
+    "hotspots": "Accident Hotspots",
+    "lightStates": {
+      "red": "Red",
+      "yellow": "Yellow",
+      "green": "Green"
+    },
+    "priorityActive": "Priority Active",
+    "normalOperation": "Normal Operation"
+  },
+  "dashboard": {
+    "activeEmergencies": "Active Emergencies",
+    "avgResponseTime": "Avg Response Time",
+    "trafficDensity": "Traffic Density",
+    "vehiclesDeployed": "Vehicles Deployed",
+    "statistics": "Statistics",
+    "liveUpdates": "Live Updates",
+    "alerts": "Alerts"
+  },
+  "chat": {
+    "sendMessage": "Send Message",
+    "typeMessage": "Type a message...",
+    "translationOn": "Translation ON",
+    "translationOff": "Translation OFF",
+    "shareLocation": "Share Location",
+    "shareMedia": "Share Media"
+  }
+}
