@@ -10,7 +10,7 @@ export default function DashboardPage() {
     avgResponse: '0min',
     successRate: '0%',
   });
-  const [emergencies, setEmergencies] = useState([]);
+  const [emergencies, setEmergencies] = useState<any[]>([]);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
